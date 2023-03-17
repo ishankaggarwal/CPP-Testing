@@ -1,9 +1,9 @@
 #include<iostream>
 #include<vector>
-#include "Person.h"
-#include "PhoneBookAdd.h"
-#include "PhoneBookDelete.h"
-#include "PhoneBookUpdate.h"
+#include "../Header_Files/Person.h"
+#include "../Header_Files/PhoneBookAdd.h"
+#include "../Header_Files/PhoneBookDelete.h"
+#include "../Header_Files/PhoneBookUpdate.h"
 #include <algorithm>
 
 using namespace std;
